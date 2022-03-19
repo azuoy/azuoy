@@ -1,5 +1,5 @@
 <h1 align="center">𝘈𝘺𝘮𝘢𝘯, 💤 $o</h1>
-![](https://komarev.com/ghpvc/?username=w6t&color=grey)         
+## <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>         
 
 <p align="center">
   <br>

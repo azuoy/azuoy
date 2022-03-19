@@ -1,5 +1,5 @@
 <h1 align="center">𝘈𝘺𝘮𝘢𝘯, 💤 $o</h1>     
-![]  
+
 <p align="center">
   <br>
   <samp>

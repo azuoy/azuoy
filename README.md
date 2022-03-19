@@ -15,12 +15,6 @@
 
 <p align="center">
   <br><br>  
-    USERNAME: "User#0000",
-    PICTURE: "assets/img/profile_picture.png",
-  
-   BADGES: [
-        { id: "HypeSquad Bravery", image: "https://discord.com/assets/64ae1208b6aefc0a0c3681e6be36f0ff.svg" },
-        { id: "Nitro Sub", image: "https://discord.com/assets/386884eecd36164487505ddfbac35a9d.svg" },
     ],
   <br><br>
   <img src="https://64.media.tumblr.com/9ec7537198ca06a6defd9659c5017a2f/b17ff0c6bb7fc1b6-4f/s1280x1920/8f4b116e79552bb93e8457a2272d5b71371bd2e7.gifv", width="260"/>

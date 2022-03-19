@@ -12,7 +12,7 @@
   <img src="https://images-ext-1.discordapp.net/external/usda5pZ1nza_qeBCv8UBLclMWYwLJOQjoTU7-gVDVRM/https/media.discordapp.net/attachments/939213416571224071/954775110181601300/output-onlinegiftools_6.gif" width="200"/>
   
 </p>
-
+],
 <p align="center">
   <br><br>  
     

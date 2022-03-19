@@ -1,5 +1,5 @@
 <h1 align="center">𝘈𝘺𝘮𝘢𝘯, 💤 $o</h1>     
-![](https://komarev.com/ghpvc/?username=w6t&color=grey)    
+![]  
 <p align="center">
   <br>
   <samp>

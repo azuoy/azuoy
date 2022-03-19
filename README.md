@@ -1,5 +1,5 @@
 <h1 align="center">𝘈𝘺𝘮𝘢𝘯, 💤 $o</h1> 
-## <img height="40" src="https://images-ext-1.discordapp.net/external/usda5pZ1nza_qeBCv8UBLclMWYwLJOQjoTU7-gVDVRM/https/media.discordapp.net/attachments/939213416571224071/954775110181601300/output-onlinegiftools_6.gif"/> **space hacker**        
+ <img height="40" src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif"/> **space hacker**        
 
 <p align="center">
   <br>
@@ -9,8 +9,8 @@
 
 </samp>
 
-  <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="200"/>
-
+  <img src="https://images-ext-1.discordapp.net/external/usda5pZ1nza_qeBCv8UBLclMWYwLJOQjoTU7-gVDVRM/https/media.discordapp.net/attachments/939213416571224071/954775110181601300/output-onlinegiftools_6.gif" width="200"/>
+  
 </p>
 
 <p align="center">

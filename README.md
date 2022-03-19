@@ -14,7 +14,7 @@
 
 <p align="center">
   <br><br>
-  <img src="https://images-ext-1.discordapp.net/external/usda5pZ1nza_qeBCv8UBLclMWYwLJOQjoTU7-gVDVRM/https/media.discordapp.net/attachments/939213416571224071/954775110181601300/output-onlinegiftools_6.gif">
+  <img src="https://media.discordapp.net/attachments/732961490713182299/954866193171349514/Removal-8.png">
   <br><br>
   <img src="https://64.media.tumblr.com/9ec7537198ca06a6defd9659c5017a2f/b17ff0c6bb7fc1b6-4f/s1280x1920/8f4b116e79552bb93e8457a2272d5b71371bd2e7.gifv", width="260"/>
   <br>

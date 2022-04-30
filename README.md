@@ -14,7 +14,7 @@
 
 <p align="center">
   <br><br>
-  <img src="https://media.discordapp.net/attachments/732961490713182299/954866193171349514/Removal-8.png">
+  <img src="https://images-ext-1.discordapp.net/external/dE3s4pN81WQ5Iq7dJmzh2FeDyNi7UBgItf_-bxshD5U/%3Fsize%3D512/https/cdn.discordapp.com/avatars/346343557130354688/a_49e745d007e99d8dd1dc364e4b3900ea.gif">
   <br><br>
   <img src="https://64.media.tumblr.com/9ec7537198ca06a6defd9659c5017a2f/b17ff0c6bb7fc1b6-4f/s1280x1920/8f4b116e79552bb93e8457a2272d5b71371bd2e7.gifv", width="260"/>
   <br>
